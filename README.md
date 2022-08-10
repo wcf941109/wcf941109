@@ -11,12 +11,7 @@
   My goal is to develop services that will make life easier.. ✨ <br/><br/>
 </p>
 
-  <img src="http://mazandi.herokuapp.com/api?handle={wcf941109}&theme=warm"/>
-
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wcf941109&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wcf941109)](https://github.com/wcf941109/github-readme-stats)
-  
- 
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wcf941109&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wcf941109&layout=compact&hide_border=true&theme=white)
 
 
   
